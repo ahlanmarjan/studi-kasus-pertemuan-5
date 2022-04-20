@@ -48,21 +48,3 @@ int main(){
 	return 0;
 }
 
-//#include <iostream>
-//using namespace std;
-//
-//int deret(int n){
-//	if (n == 1)
-//		return 1;
-//	else 
-//		return (n + deret(n-1));
-//}
-//
-//int main(){
-//	int n; 
-//	cout << "Masukan n = ";
-//	cin >> n;
-//	
-//	cout << "deret n=1+2+3+4+5+.......+n";
-//	cout << "jumlah deret = " << deret(n);
-//}
